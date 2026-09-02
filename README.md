@@ -55,7 +55,7 @@ Se preferir não instalar nada, existe o serviço em que a equipe faz as ativida
 
 ## Perguntas frequentes
 
-**Funciona no celular?** Não — o Tampermonkey precisa de navegador de computador.
+**Funciona no celular?** No Android, sim — desde que o navegador aceite extensões, como o **Microsoft Edge** ou o **Firefox**. O Chrome de Android não aceita extensão, então nele não roda. No **iPhone/iOS não funciona**: o iOS não permite extensão de userscript em navegador nenhum — nesse caso use a opção "a gente faz por você".
 
 **Meu login é o e-mail da escola?** Sim, `@escola.pr.gov.br` pela conta Google institucional. O script usa a sessão que você já abriu.
 
@@ -70,9 +70,9 @@ script Inglês Paraná · script Inglês Paraná High · bot Inglês Paraná · 
 ## Outros estados
 
 - [Sala do Futuro / CMSP — São Paulo](https://mikael.store/script-sala-do-futuro)
-- [GoEnglish — Goiás](https://github.com/mikaeldevs7/Script-GoEnglish-Efekta-Speak)
+- [GoEnglish — Goiás](https://mikael.store/scripts/goEnglish)
 - [Mais Inglês / Plural — Mato Grosso](https://mikael.store/mato-grosso)
 
 ---
 
-© Mikael Dev · https://mikael.store
+© Mikael Dev · [mikael.store](https://mikael.store) · [Todos os scripts, por plataforma](https://mikael-devs.github.io/)
